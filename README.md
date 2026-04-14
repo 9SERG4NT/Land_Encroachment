@@ -308,6 +308,9 @@ Contributions are welcome! Please follow these steps:
 5. Open a Pull Request
 
 ---
+## Sample Output
+![WhatsApp Image 2026-04-14 at 1 13 07 PM](https://github.com/user-attachments/assets/b7328c3b-12cd-4f10-9fe1-29f304cc651a)
+
 
 ## 📄 License
 
